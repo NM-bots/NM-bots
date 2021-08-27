@@ -2,7 +2,7 @@
 
 
 ## MY profile photo 
-<img src="https://telegra.ph/file/287c501f9c3f3dbbbc756.jpg"></b><img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
+<img src="https://telegra.ph/file/287c501f9c3f3dbbbc756.jpg"></br><img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
 - 👋 Hi, I’m @nadun malaka
 - 👀 I’m interested in ...
