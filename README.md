@@ -2,6 +2,7 @@
 
 
 ## MY profile photo 
+<img src="https://telegra.ph/file/287c501f9c3f3dbbbc756.jpg">
 
 - 👋 Hi, I’m @nadun malaka
 - 👀 I’m interested in ...
