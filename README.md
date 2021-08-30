@@ -13,7 +13,7 @@
 
 
 
-[![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
+
 
 <!---
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
