@@ -1,7 +1,8 @@
 # Hey! I'm Nadun malaka <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
-## MY profile photo 
+## MY infomation
+[![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
 - 👋 Hi, I’m @nadun malaka
@@ -12,7 +13,7 @@
 
 
 
-<br>[![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
+[![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
 
 <!---
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
