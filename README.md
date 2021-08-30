@@ -1,7 +1,7 @@
 # Hey! I'm Nadun malaka <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
-[![sandy's github stats](https://github-readme-stats.vercel.app/api?username=sandy1709&show_icons=true&theme=cobalt&count_private=true)](https://github.com/sandy1709)
+[![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=sandy1709&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
 
 ## MY profile photo 
 <img src="https://telegra.ph/file/287c501f9c3f3dbbbc756.jpg"><br>
