@@ -2,7 +2,6 @@
 
 
 ## MY profile photo 
-
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
 - 👋 Hi, I’m @nadun malaka
@@ -11,7 +10,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
- [![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
+
+
+[![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
 
 <!---
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
