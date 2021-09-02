@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NM-bots&layout=compact&theme=cobalt)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
@@ -19,6 +19,7 @@
 <h1 align="center">
   GitHub Profile README Generator
 </h1>
+
 
 - 👋 Hi, I’m @nadun malaka
 - 👀 I’m interested in ...
