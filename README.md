@@ -6,22 +6,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NM-bots&layout=compact&theme=cobalt)
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)
+![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
 
-  <p align="center">
-  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
-  </a>
 
 
 - 👋 Hi, I’m @nadun malaka
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...http://wa.me/741140820
 
 
 
