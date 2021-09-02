@@ -10,7 +10,7 @@
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=onedark)](https://github.com/NM-bots/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)](https://github.com/NM-bots/github-profile-trophy)
   
 
 - 👋 Hi, I’m @nadun malaka
