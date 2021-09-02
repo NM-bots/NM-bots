@@ -6,11 +6,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NM-bots&layout=compact&theme=cobalt)](https://github.com/NM-bots/NM-bots.git)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NM-bots" alt="terror-boy" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)](https://github.com/NM-bots/github-profile-trophy)
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)](https://github.com/NM-bots/github-profile-trophy)
+
   
 
 - 👋 Hi, I’m @nadun malaka
