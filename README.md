@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NM-bots&layout=compact&theme=cobalt)](https://github.com/NM-bots/NM-bots.git)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)](https://github.com/NM-bots/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)]
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
