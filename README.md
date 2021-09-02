@@ -20,6 +20,10 @@
   GitHub Profile README Generator
 </h1>
 
+<p align="center">
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
+
 
 - 👋 Hi, I’m @nadun malaka
 - 👀 I’m interested in ...
