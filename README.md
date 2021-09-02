@@ -3,7 +3,7 @@
 
 ## MY infomations
 
-![My card name](https://cardivo.vercel.app/api?name=NADUN_MALAKA-%20BOY&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=backgroundColor=%23ecf0f1&github=NM-bots&&pattern=leaf&colorPattern=%25eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=NADUN_MALAKA-%20BOY&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://avatars.githubusercontent.com/u/89643714?v=4backgroundColor=%23ecf0f1&github=NM-bots&&pattern=leaf&colorPattern=%25eaeaea)
 
 [![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
 
