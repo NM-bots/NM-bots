@@ -15,14 +15,6 @@
   <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
   </a>
-</p>
-<h1 align="center">
-  GitHub Profile README Generator
-</h1>
-
-<p align="center">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
 
 
 - 👋 Hi, I’m @nadun malaka
