@@ -11,7 +11,14 @@
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
 
-  
+  <p align="center">
+  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
+    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  GitHub Profile README Generator
+</h1>
 
 - 👋 Hi, I’m @nadun malaka
 - 👀 I’m interested in ...
