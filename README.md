@@ -13,7 +13,7 @@
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
-https://git.io/J0hKr
+<a href="https://git.io/J0hKr"
 
 
 - 👋 Hi, I’m @nadun malaka
