@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NM-bots&layout=compact&theme=cobalt)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NM-bots&theme=cobalt)
+<p align="center"> <a href="https://github.com/NM-bots"><img src="https://github-profile-trophy.vercel.app/?username=NM-bots&no-bg=true" alt="NM-bots" /></a> </p>
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
  
