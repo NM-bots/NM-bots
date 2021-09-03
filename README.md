@@ -15,6 +15,15 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=NADUN_MALAKA-%20BOY&description=Hi,%20I'm%20a%20moderate%20Developer%20😍&image=https://avatars.githubusercontent.com/u/89643714?v=4backgroundColor=%23ecf0f1&github=NM-bots&&pattern=leaf&colorPattern=%25eaeaea)
 
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+|  <a href="https://t.me/NM_rider/"><img src="https://avatars.githubusercontent.com/u/89643714?s=400&u=ba69534a1ca3a1be6644edd759574cad56d57beb&v=4" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[NADUN MALAKA](https://t.me/NM_rider/)**                                                                                |
+| <a href="https://github.com/NM-bots"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Nadun malaka"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/malaka malaka"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>  
+
+
 [![NM-bots github stats](https://github-readme-stats.vercel.app/api?username=NM-bots&show_icons=true&theme=cobalt&count_private=true)](https://github.com/NM-bots/NM-bots.git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NM-bots&layout=compact&theme=cobalt)
