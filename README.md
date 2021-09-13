@@ -82,3 +82,19 @@ You can use the website to generate badges: https://shields.io/
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Another Pin Project
+<details>
+  <summary>My New WhatsApp Project</summary>
+   <a href="https://github.com/TOXIC-DEVIL/WhatsAlexa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAlexa">
+  </a>
+</details>
+
+  <!--
+<details>
+  <summary>My New WhatsApp Bot Project</summary>
+   <a href="https://github.com/TOXIC-DEVIL/Rhizo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Rhizo">
+  </a>
+  </details>
+  --!>
