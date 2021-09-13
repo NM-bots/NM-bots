@@ -75,7 +75,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me ..![contact](https://img.shields.io/badge/Contact%20me-On%20Telegrame-blue)
 - 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-NM_rider-brightgreen)
 - 🆓 Don't Forget To **[Follow Me](https://github.com/NM-bots)**
-                     **[Follow me (https://t.me/NM_rider)**
+- 🆓 Don't Forget To **[Follow me (https://t.me/NM_rider)**
 
 
 <!---
