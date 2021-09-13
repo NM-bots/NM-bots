@@ -76,7 +76,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-NM_rider-brightgreen)
 - 🆓 Don't Forget To **[Follow Me](https://github.com/NM-bots)**
 
-    **[Follow Me](https://t.me/Ami_p2)**
+  <br/>  **[Contact Me via Telegrame](https://t.me/Ami_p2)**
 
 <!---
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
