@@ -13,7 +13,7 @@
     </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=NADUN_MALAKA-%20BOY&description=Hi,%20I'm%20a%20moderate%20Developer%20😍&image=https://avatars.githubusercontent.com/u/89643714?v=4backgroundColor=%23ecf0f1&github=NM-bots&&pattern=leaf&colorPattern=%25eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=NADUN%20-%20MALAKA&description=Hi,%20Welcome%20To%20My%20Profile%20😋&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=___Nadun____Malaka___&linkedin=___Nadun Malaka____Nadun___&github=NM-bots&twitter=@Nadun-Malaka&pattern=leaf&colorPattern=%23eaeaea)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
