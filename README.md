@@ -75,7 +75,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me ..![contact](https://img.shields.io/badge/Contact%20me-On%20Telegrame-blue)
 - 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-NM_rider-brightgreen)
 - 🆓 Don't Forget To **[Follow Me](https://github.com/NM-bots)**
-
+                     **[Follow me (https://t.me/NM_rider)**
 
 
 <!---
@@ -98,14 +98,5 @@ You can click the Preview link to take a look at your changes.
   </a>
   </details>
   --!>
-<br/>
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.31% 
-🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
-🌙 Night      193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46%
-
-```
