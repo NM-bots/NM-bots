@@ -59,12 +59,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 <a href="h
          
-<br>
-<p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yashoswalyo&theme=tokyonight_duo&hide_border=true&fire=DDB708"/>
-</p>
-                                                                                                                                              
-         
+<br>                                                                                                                               
  <a href="https://github.com/NM-bots"><img alt="Nadun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NM-bots&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## Most used Languages 🪀
@@ -91,7 +86,14 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>My New WhatsApp Project</summary>
    <a href="https://github.com/....">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=......">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=
+```text
+🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.31% 
+🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
+🌙 Night      193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46%
+
+```">
   </a>
 </details>
 
