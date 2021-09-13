@@ -86,14 +86,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>My New WhatsApp Project</summary>
    <a href="https://github.com/....">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=
-```text
-🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.31% 
-🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
-🌙 Night      193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46%
-
-```">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=">
   </a>
 </details>
 
@@ -105,3 +98,10 @@ You can click the Preview link to take a look at your changes.
   </a>
   </details>
   --!>
+```text
+🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.31% 
+🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
+🌙 Night      193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46%
+
+```
