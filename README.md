@@ -72,8 +72,8 @@ You can use the website to generate badges: https://shields.io/
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..![contact](https://img.shields.io/badge/Contact%20me-On%20Telegrame-blue)
-- 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-NM_rider-brightgreen='t.m/NM_rider')
+- 📫 How to reach me ..![contact](https://img.shields.io/badge/Contact%20mehttps://t.me/Ami_p2-On%20Telegrame-blue)
+- 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-NM_rider-brightgreen)
 - 🆓 Don't Forget To **[Follow Me](https://github.com/NM-bots)**
 
   <br/>  **[Contact Me via Telegrame](https://t.me/Ami_p2)**
