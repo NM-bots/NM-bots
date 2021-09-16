@@ -86,7 +86,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - Join Telegrame Group <br />
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/NM_Bot_s)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/NM_Botss)
 
 <!---
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
