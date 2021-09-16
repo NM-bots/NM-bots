@@ -100,3 +100,7 @@ You can click the Preview link to take a look at your changes.
   --!>
 
 
+## Where to find me
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHamkerCat)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheHamkerCat)
