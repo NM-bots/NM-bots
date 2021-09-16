@@ -76,10 +76,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-MyTelegrameGroup-brightgreen)
 - 🆓 Don't Forget To 
 
-  <br/>  **[Contact Me via Telegrame](https://t.me/Ami_p2)**
-
-
-## Where to find me
+ ## Where to find me
 
 - Follow github  
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=blue)](https://github.com/NM-bots)
