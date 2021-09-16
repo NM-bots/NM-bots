@@ -73,10 +73,20 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..![contact](https://img.shields.io/badge/Contact%20me-On%20Telegrame-blue)
-- 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-NM_rider-brightgreen)
-- 🆓 Don't Forget To **[Follow Me](https://github.com/NM-bots)**
+- 💬 Ask me about : ![Telegrame](https://img.shields.io/badge/Go%20to-MyTelegrameGroup-brightgreen)
+- 🆓 Don't Forget To 
 
   <br/>  **[Contact Me via Telegrame](https://t.me/Ami_p2)**
+
+
+## Where to find me
+
+- Follow github  
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=blue)](https://github.com/NM-bots)
+
+
+- Join Telegrame Group <br />
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/NM_Bot_s)
 
 <!---
 NM-bots/NM-bots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -100,7 +110,3 @@ You can click the Preview link to take a look at your changes.
   --!>
 
 
-## Where to find me
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHamkerCat)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheHamkerCat)
